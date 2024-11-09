@@ -117,7 +117,8 @@
 <%--</div>--%>
 <%--<!-- END FOOTER -->--%>
 
-
-<p>Hồ Vũ Thanh Bình</p>
-<p>22110287</p>
-<p>2</p>
+<div style="background: #1BBC9B; color: white">
+    <p>Hồ Vũ Thanh Bình</p>
+    <p>22110287</p>
+    <p>2</p>
+</div>

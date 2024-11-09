@@ -87,8 +87,18 @@ public class BookDaoImpl implements IBookDao {
         }
 
         @Override
+        public List<Book> findAllPaging(int pageNumber, int pageSize) {
+                EntityManager enma = JPAConfig.getEntityManager();
+                TypedQuery<Book> query= enma.createNamedQuery("Book.findAll", Book.class);
+                query.setFirstResult(pageNumber);
+                query.setMaxResults(pageSize);
+
+                return query.getResultList();
+        }
+
+        @Override
         public int count() {
-                return 0;
+                return findAll().size();
         }
 
         @Override

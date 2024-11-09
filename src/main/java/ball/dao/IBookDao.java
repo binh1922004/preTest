@@ -17,6 +17,8 @@ public interface IBookDao {
 
         List<Book> findAll(int page, int pagesize);
 
+        List<Book> findAllPaging(int pageNumber, int pageSize);
+
         int count();
         public List<Book> findAll();
 }
