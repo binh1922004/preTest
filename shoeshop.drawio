@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="7GVA9182DgbOcYEtwYYX">
-    <mxGraphModel dx="1263" dy="280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2330" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="VrV63R5NM78Et4t5VAva-5" value="&lt;b&gt;Order:&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;id&lt;/div&gt;&lt;div&gt;user_id&lt;/div&gt;&lt;div&gt;shipment_id&lt;/div&gt;&lt;div&gt;toltal_price&lt;/div&gt;&lt;div&gt;created_date&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-160" y="350" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="VrV63R5NM78Et4t5VAva-6" value="&lt;b&gt;Product:&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;id&lt;/div&gt;&lt;div&gt;category_id&lt;/div&gt;&lt;div&gt;title&lt;/div&gt;&lt;div&gt;image&lt;/div&gt;&lt;div&gt;description&lt;/div&gt;&lt;div&gt;price&lt;/div&gt;&lt;div&gt;voucher&lt;/div&gt;&lt;div&gt;is_delete&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="VrV63R5NM78Et4t5VAva-6" value="&lt;b&gt;Product:&lt;/b&gt;&lt;div&gt;id&lt;/div&gt;&lt;div&gt;category_id&lt;/div&gt;&lt;div&gt;title&lt;/div&gt;&lt;div&gt;image&lt;/div&gt;&lt;div&gt;description&lt;/div&gt;&lt;div&gt;price&lt;/div&gt;&lt;div&gt;voucher&lt;/div&gt;&lt;div&gt;is_delete&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="360" y="310" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="VrV63R5NM78Et4t5VAva-7" value="&lt;b&gt;Category:&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;id&lt;/div&gt;&lt;div&gt;type&lt;/div&gt;&lt;div&gt;description&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
